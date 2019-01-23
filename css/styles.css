@@ -10,7 +10,7 @@ hr{
   body{
     margin: 0;
     text-align: center;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Montserrat', sans-serif;
   }
 
   h1{
@@ -39,7 +39,7 @@ hr{
 
   a{
     color: #33313b;
-    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
   }
@@ -61,18 +61,6 @@ margin: 100px 0;
 .bottom-container {
   background-color: #834c69;
   padding: 50px 0 20px;
-}
-
-.top-cloud{
-  position: absolute;
-  right: 400px;
-  top: 50px;
-}
-
-.bottom-cloud{
-  position: absolute;
-  left: 400px;
-  bottom: 300px;
 }
 
 .pro{
@@ -100,6 +88,7 @@ text-decoration: underline;
   text-align: left;
 }
 
+
 .banner{
   width: 50%;
 }
@@ -116,6 +105,11 @@ text-decoration: underline;
   margin-left: 30px;
 }
 
+.contact-img{
+  align-content: center;
+  margin: auto;
+  width: 30%;
+}
 
 .btn {
   background: #834c69;
@@ -127,7 +121,7 @@ text-decoration: underline;
   -webkit-border-radius: 4;
   -moz-border-radius: 4;
   border-radius: 4px;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
