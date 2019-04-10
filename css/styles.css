@@ -48,6 +48,10 @@ hr{
     color: #e6f5ff;
   }
 
+  ul{
+  display: inline-block;
+}
+
 .top-container {
   background-color: #f4f9f4;
   position: relative;
@@ -59,7 +63,6 @@ margin: 100px 0;
 }
 
 .bottom-container {
-  display: inline-block;
   background-color: #834c69;
   padding: 50px 0 20px;
 }
