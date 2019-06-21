@@ -82,6 +82,10 @@ text-decoration: underline;
   margin: 40px auto 60px;
 }
 
+.link {
+    margin: 10px 20px;
+}
+
 .copyright{
   color: #33313b;
   padding: 20px 0;
