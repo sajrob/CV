@@ -69,7 +69,7 @@ text-decoration: underline;
 }
 
 .intro{
-  width: 50%;
+  width: 60%;
   margin: auto;
   text-align: justify;
 }
@@ -89,8 +89,8 @@ text-decoration: underline;
 }
 
 .skill-row{
-  width: 50%;
-  margin: 100px auto 100px auto;
+  width: 60%;
+  margin: 100px auto;
   text-align: left;
 }
 
@@ -108,7 +108,7 @@ text-decoration: underline;
 .eng-img{
   width: 25%;
   float: right;
-  margin-left: 30px;
+  /* margin-left: 10px; */
 }
 
 .contact-img{
