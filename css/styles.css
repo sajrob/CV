@@ -50,13 +50,14 @@ hr{
 }
 
 .top-container {
-  background-color: #f4f9f4;
+  background-color: #d3d8d8;
   position: relative;
   padding-top: 100px;
 }
 
 .middle-container {
-margin: 20px 0;
+margin: 10px 0;
+/* background-color: cornsilk; */
 }
 
 .bottom-container {
