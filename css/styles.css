@@ -23,7 +23,7 @@ hr{
   }
 
   h2{
-    font-size: 2.625rem;
+    /* font-size: 2.625rem; */
     font-weight: normal;
     color: #3c4f65;
     font-family: 'Raleway', sans-serif;
@@ -98,7 +98,6 @@ text-decoration: underline;
   margin: 100px auto;
   text-align: left;
 }
-
 
 .banner{
   width: 50%;
