@@ -6,14 +6,14 @@ hr{
   }
 
 
-  body{
-    margin: 5% auto;
-    
+  body {
+    margin: 5% auto; 
+    color: #444444; 
     font-family: 'Montserrat', sans-serif;
     font-size: 16px; 
     line-height: 1.8; 
     max-width: 73%;
-  }
+}
 
 
   h1{
@@ -23,6 +23,7 @@ hr{
     font-family: 'Dancing Script', cursive;
   }
 
+
   h2{
     /* font-size: 2.625rem; */
     font-weight: normal;
@@ -30,15 +31,18 @@ hr{
     font-family: 'Raleway', sans-serif;
   }
 
+
   h3 {
     color: #33313b;
     font-family: 'Raleway', sans-serif;
   }
 
+
   p
   {
     line-height: 2rem;
   }
+
 
   a{
     color: #969494;
@@ -46,13 +50,16 @@ hr{
     text-decoration: none;
   }
 
+
   a:hover{
     color: #e6f5ff;
   }
 
+
   ul{
   display: inline-block;
 }
+
 
 .top-container {
   background-color: #d3d8d8;
@@ -60,18 +67,22 @@ hr{
   padding-top: 100px;
 }
 
+
 .middle-container {
 margin: 10px 0;
 }
+
 
 .bottom-container {
   background-color: #170e13;
   padding: 50px 0 20px;
 }
 
+
 .pro{
 text-decoration: underline;
 }
+
 
 .intro{
   width: 60%;
@@ -79,19 +90,23 @@ text-decoration: underline;
   text-align: justify;
 }
 
+
 .contact-me{
   width: 400px;
   margin: 40px auto 60px;
 }
 
+
 .link {
     margin: 10px 10px;
 }
+
 
 .copyright{
   color: #33313b;
   padding: 20px 0;
 }
+
 
 .skill-row{
   width: 60%;
@@ -99,9 +114,11 @@ text-decoration: underline;
   text-align: left;
 }
 
+
 .banner{
   width: 50%;
 }
+
 
 .dev-img{
   width: 25%;
@@ -109,17 +126,20 @@ text-decoration: underline;
   margin-right: 30px
 }
 
+
 .eng-img{
   width: 25%;
   float: right;
   /* margin-left: 10px; */
 }
 
+
 .contact-img{
   align-content: center;
   margin: auto;
   width: 30%;
 }
+
 
 .btn {
   background: #834c69;
@@ -138,6 +158,7 @@ text-decoration: underline;
   margin: 100;
   text-decoration: none;
 }
+
 
 .btn:hover {
   background: #ab869a;
